@@ -1,0 +1,20 @@
+body{    
+    min-height: 100%;
+    background: url(https://www.mikmak.co.il/media/gallery/790/790427/main/790427_t649.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;}
+h4{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+#q1{color: blue;}
+#q2{color: rgb(67, 175, 175);}
+#q3{opacity: 20%;}
+#q4{color: rgb(116, 76, 35);}
+#q5{color: rgb(52, 52, 179);}
+button{color: rgb(119, 119, 255);}
+input{accent-color: red;}
+.q1{accent-color: rgb(73, 73, 255);}
+#q6{
+    color: blanchedalmond; 
+    border-width: 10px; 
+    border-style: dashed;
+}
